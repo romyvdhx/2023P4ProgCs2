@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{73B75300-444C-49EA-8947-115202437654}|ConsoleMonGame\\ConsoleMonGame.csproj|solutionrelative:consolemongame\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B75300-444C-49EA-8947-115202437654}|ConsoleMonGame\\ConsoleMonGame.csproj|c:\\users\\romyvdhx\\documents\\ma\\bewijzenmap\\p1.4\\prog\\2023p4progcs2\\consolemongame\\consolemongame\\consolemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73B75300-444C-49EA-8947-115202437654}|ConsoleMonGame\\ConsoleMonGame.csproj|C:\\Users\\romyvdhx\\Documents\\ma\\bewijzenmap\\p1.4\\prog\\2023P4ProgCs2\\ConsoleMonGame\\consolemongame\\consolemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73B75300-444C-49EA-8947-115202437654}|ConsoleMonGame\\ConsoleMonGame.csproj|solutionrelative:consolemongame\\consolemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "ConsoleMonGame\\ConsoleMon.cs",
               "ToolTip": "C:\\Users\\romyvdhx\\Documents\\ma\\bewijzenmap\\p1.4\\prog\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMonGame\\ConsoleMon.cs",
               "RelativeToolTip": "ConsoleMonGame\\ConsoleMon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T08:07:55.185Z",
               "EditorCaption": ""
@@ -58,9 +58,10 @@
               "RelativeDocumentMoniker": "ConsoleMonGame\\Program.cs",
               "ToolTip": "C:\\Users\\romyvdhx\\Documents\\ma\\bewijzenmap\\p1.4\\prog\\2023P4ProgCs2\\ConsoleMonGame\\ConsoleMonGame\\Program.cs",
               "RelativeToolTip": "ConsoleMonGame\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T07:54:06.497Z"
+              "WhenOpened": "2024-05-06T07:54:06.497Z",
+              "EditorCaption": ""
             }
           ]
         }
