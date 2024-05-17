@@ -1,0 +1,15 @@
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\bin\Debug\net8.0\ListOpdracht.exe
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\bin\Debug\net8.0\ListOpdracht.deps.json
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\bin\Debug\net8.0\ListOpdracht.runtimeconfig.json
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\bin\Debug\net8.0\ListOpdracht.dll
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\bin\Debug\net8.0\ListOpdracht.pdb
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\obj\Debug\net8.0\ListOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\obj\Debug\net8.0\ListOpdracht.AssemblyInfoInputs.cache
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\obj\Debug\net8.0\ListOpdracht.AssemblyInfo.cs
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\obj\Debug\net8.0\ListOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\obj\Debug\net8.0\ListOpdracht.sourcelink.json
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\obj\Debug\net8.0\ListOpdracht.dll
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\obj\Debug\net8.0\refint\ListOpdracht.dll
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\obj\Debug\net8.0\ListOpdracht.pdb
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\obj\Debug\net8.0\ListOpdracht.genruntimeconfig.cache
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\ListOpdracht\obj\Debug\net8.0\ref\ListOpdracht.dll
