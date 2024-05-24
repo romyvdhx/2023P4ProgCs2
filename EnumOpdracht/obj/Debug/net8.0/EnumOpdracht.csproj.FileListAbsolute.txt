@@ -1,0 +1,15 @@
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\bin\Debug\net8.0\EnumOpdracht.exe
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\bin\Debug\net8.0\EnumOpdracht.deps.json
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\bin\Debug\net8.0\EnumOpdracht.runtimeconfig.json
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\bin\Debug\net8.0\EnumOpdracht.dll
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\bin\Debug\net8.0\EnumOpdracht.pdb
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.AssemblyInfoInputs.cache
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.AssemblyInfo.cs
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.sourcelink.json
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.dll
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\obj\Debug\net8.0\refint\EnumOpdracht.dll
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.pdb
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\obj\Debug\net8.0\EnumOpdracht.genruntimeconfig.cache
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\EnumOpdracht\obj\Debug\net8.0\ref\EnumOpdracht.dll
