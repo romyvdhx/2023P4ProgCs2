@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{58076007-D3DC-4D38-AE50-CB20900536DE}|EnumOpdracht.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58076007-D3DC-4D38-AE50-CB20900536DE}|EnumOpdracht.csproj|c:\\users\\romyvdhx\\documents\\ma\\bewijzenmap\\p1.4\\prog\\2023p4progcs2\\enumopdracht\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58076007-D3DC-4D38-AE50-CB20900536DE}|EnumOpdracht.csproj|C:\\Users\\romyvdhx\\Documents\\ma\\bewijzenmap\\p1.4\\prog\\2023P4ProgCs2\\EnumOpdracht\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58076007-D3DC-4D38-AE50-CB20900536DE}|EnumOpdracht.csproj|solutionrelative:colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Colors.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T12:20:45.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T12:20:45.539Z"
             },
             {
               "$type": "Document",

@@ -1,0 +1,15 @@
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\bin\Debug\net8.0\FileDirOpdracht.exe
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\bin\Debug\net8.0\FileDirOpdracht.deps.json
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\bin\Debug\net8.0\FileDirOpdracht.runtimeconfig.json
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\bin\Debug\net8.0\FileDirOpdracht.dll
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\bin\Debug\net8.0\FileDirOpdracht.pdb
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.AssemblyInfoInputs.cache
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.AssemblyInfo.cs
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.sourcelink.json
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.dll
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\obj\Debug\net8.0\refint\FileDirOpdracht.dll
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.pdb
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\obj\Debug\net8.0\FileDirOpdracht.genruntimeconfig.cache
+C:\Users\romyvdhx\Documents\ma\bewijzenmap\p1.4\prog\2023P4ProgCs2\FileDirOpdracht\obj\Debug\net8.0\ref\FileDirOpdracht.dll
